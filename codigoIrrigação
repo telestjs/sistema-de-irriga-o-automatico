@@ -1,5 +1,5 @@
 
-bool sensor;
+bool sensor
 bool leituraAnterior;
 
 void setup() {
